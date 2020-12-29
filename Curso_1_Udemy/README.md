@@ -10,3 +10,5 @@
 En especial chrome y Visual Estudio, En VS se instala el plugin (JavaScript (ES6) code snippets)
 https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
 
+#### 3. Primer  aplicacion:
+Para ver los iconos de los archivos en Vs se instala Material icon Theme
