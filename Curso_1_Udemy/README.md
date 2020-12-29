@@ -22,3 +22,8 @@ Variables, Tipos de datos y Operadores
 #### Video 8 Variables y Tipos de datos:
 - Uso de variables (var) de diferentes tipos
 - typeof, Para saber que tipo de dato es una variable
+
+#### Video 9 comentarios:
+- Se usa /* comentario */ o //Linea 
+
+#### Video 10 Operadore Matematicos
