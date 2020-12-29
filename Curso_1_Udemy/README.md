@@ -12,3 +12,13 @@ https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
 
 #### 3. Primer  aplicacion:
 Para ver los iconos de los archivos en Vs se instala Material icon Theme
+
+#### 4. Video 6:
+Muestra como añadir codigo javascript dentro del html
+
+#### Video7:
+Variables, Tipos de datos y Operadores
+
+#### Video 8 Variables y Tipos de datos:
+- Uso de variables (var) de diferentes tipos
+- typeof, Para saber que tipo de dato es una variable
