@@ -27,3 +27,12 @@ Variables, Tipos de datos y Operadores
 - Se usa /* comentario */ o //Linea 
 
 #### Video 10 Operadore Matematicos
+
+#### Video 11 Operadores Logicos, Unarios y de Asignacion
+
+#### Video 14 Sentencias if, else
+
+#### Video 15 If anidados
+
+#### Video 16 Sentencia Switch
+
